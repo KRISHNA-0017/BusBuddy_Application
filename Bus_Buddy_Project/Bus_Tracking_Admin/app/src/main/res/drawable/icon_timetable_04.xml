@@ -1,0 +1,13 @@
+<vector android:height="22dp" android:viewportHeight="828"
+    android:viewportWidth="828" android:width="22dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#FFFFFF" android:pathData="M78.12,95.35C34.98,95.35 0,129.06 0,170.62v582.11C0,794.3 34.98,828 78.12,828h671.77c43.14,0 78.12,-33.7 78.12,-75.26V170.62c0,-41.57 -34.98,-75.27 -78.12,-75.27h-27.33v47.66c0,31.82 -26.87,57.72 -59.89,57.72c-33.02,0 -59.89,-25.9 -59.89,-57.72V95.35H225.22v47.66c0,31.82 -26.87,57.72 -59.88,57.72c-33.03,0 -59.9,-25.9 -59.9,-57.72V95.35H78.12zM127.6,306.11h572.79c17.28,0 31.25,12.2 31.25,27.26v377.07c0,15.05 -13.97,27.22 -31.25,27.22H127.6c-17.26,0 -31.25,-12.17 -31.25,-27.22V333.38C96.35,318.31 110.34,306.11 127.6,306.11z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M136.71,27.59v67.76v47.66c0,15.23 12.84,27.61 28.64,27.61c15.79,0 28.64,-12.38 28.64,-27.61V95.35V27.59C193.98,12.36 181.13,0 165.34,0C149.55,0 136.71,12.36 136.71,27.59z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M634.01,27.59v67.76v47.66c0,15.23 12.85,27.61 28.65,27.61c15.8,0 28.64,-12.38 28.64,-27.61V95.35V27.59C691.29,12.36 678.45,0 662.65,0C646.86,0 634.01,12.36 634.01,27.59z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M151.11,353.15h151.54v149.44h-151.54z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M341.89,353.15h151.54v149.44h-151.54z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M151.11,536.83h151.54v149.44h-151.54z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M341.89,536.83h151.54v149.44h-151.54z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M539.76,353.15h151.53v149.44h-151.53z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M539.76,536.83h151.53v149.44h-151.53z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="M263.83,133.57c-6.53,-0.06 -11.01,-4.54 -11.05,-11.06c-0.04,-6.66 4.58,-11.28 11.27,-11.27c6.66,0.01 11.31,4.69 11.24,11.31C275.24,129.21 270.63,133.63 263.83,133.57z"/>
+</vector>

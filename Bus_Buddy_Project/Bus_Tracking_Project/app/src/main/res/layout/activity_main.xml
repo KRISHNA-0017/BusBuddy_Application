@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:paddingTop="10dp"
+        android:src="@drawable/bus1" />
+
+    <Button
+        android:id="@+id/share_Location"
+        android:layout_width="229dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="90dp"
+        android:background="@drawable/ripple"
+        android:drawableRight="@drawable/icon_viewlocation_04__1_"
+        android:paddingLeft="25sp"
+        android:text="SHARE LOCATION"
+        android:textAlignment="textStart"
+        android:textSize="15dp"
+        android:textStyle="normal" />
+
+    <Button
+        android:id="@+id/logout"
+        android:layout_width="229dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/ripple"
+
+        android:drawableRight="@drawable/icon_logout_04__1_"
+        android:paddingLeft="25sp"
+        android:text="LOGOUT"
+        android:textAlignment="textStart"
+
+        android:textSize="15dp"
+        android:textStyle="normal" />
+
+</LinearLayout>

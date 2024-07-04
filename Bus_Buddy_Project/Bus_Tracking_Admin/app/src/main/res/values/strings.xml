@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BusBuddy Admin</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="BusBuddy" />
+    <string name="Bus_Tracking_Admin" />
+</resources>

@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "353443354862",
+    "firebase_url": "https://bus-tracking-project-19e4f-default-rtdb.firebaseio.com",
+    "project_id": "bus-tracking-project-19e4f",
+    "storage_bucket": "bus-tracking-project-19e4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353443354862:android:ad93dcc20d7e03c6cdbbff",
+        "android_client_info": {
+          "package_name": "com.example.bus_tacking_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCWadDHKU78w9kZTEMMMNXDpwCoxADnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353443354862:android:2a276d2642c938f7cdbbff",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCWadDHKU78w9kZTEMMMNXDpwCoxADnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353443354862:android:30863e4fbef27b10cdbbff",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCWadDHKU78w9kZTEMMMNXDpwCoxADnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353443354862:android:42c8a90213bfba99cdbbff",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_system_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCWadDHKU78w9kZTEMMMNXDpwCoxADnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353443354862:android:b6111ae86a833da9cdbbff",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCWadDHKU78w9kZTEMMMNXDpwCoxADnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353443354862:android:35e364c316ee35b8cdbbff",
+        "android_client_info": {
+          "package_name": "com.example.busbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjCWadDHKU78w9kZTEMMMNXDpwCoxADnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353443354862-kf1pu8qtm2qes3k00701nuu0b1732eb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
